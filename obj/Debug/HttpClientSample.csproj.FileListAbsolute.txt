@@ -1,0 +1,1 @@
+E:\Downloads2018\AspNetDocs-master(1)\AspNetDocs-master\aspnet\web-api\overview\advanced\calling-a-web-api-from-a-net-client\sample\client\obj\Debug\HttpClientSample.csprojAssemblyReference.cache
